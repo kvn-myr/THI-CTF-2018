@@ -1,0 +1,5 @@
+The flag is hidden in two folders with the name "..."
+The flag has the name ".flag"
+Use e.g. find command to find the flag
+The flag is in a zip archive with the password: password1
+Flag:THICTF{security_through_obscurity_and_weak_passwords_are_not_safe}

@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            1d:0d:78:48:d7:35:c1:36:c1:df:93:5f
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=DE, O=Verein zur Foerderung eines Deutschen Forschungsnetzes e. V., OU=DFN-PKI, CN=DFN-Verein Global Issuing CA
+        Validity
+            Not Before: Apr 12 10:00:25 2017 GMT
+            Not After : Jul  9 10:00:25 2020 GMT
+        Subject: C=DE, ST=Bayern, L=Ingolstadt, O=Technische Hochschule Ingolstadt, OU=Rechenzentrum, CN=www.thi.de
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a1:00:ef:df:36:41:da:07:c7:5b:b3:b5:90:4c:
+                    7b:6a:6b:98:5e:f6:7c:74:53:f9:cb:f4:e1:ad:04:
+                    08:fd:e0:31:b6:c7:f3:39:2e:40:7a:25:14:b9:0f:
+                    15:aa:7d:26:e0:0c:55:23:2c:cd:7b:0f:fa:07:83:
+                    3f:10:a5:fe:01:89:f0:86:57:80:d5:ad:24:28:9d:
+                    b3:03:4b:21:13:38:19:ce:d6:7e:be:38:5f:fe:89:
+                    35:ce:91:4e:00:14:20:6b:8c:f4:47:3d:89:97:b0:
+                    1f:be:c1:6e:a6:64:e5:92:e8:95:2e:1c:e1:da:a7:
+                    fb:1e:7f:ba:60:26:94:4c:11:31:9d:65:aa:a0:42:
+                    ed:ab:d3:4e:e8:3b:01:df:b8:7e:bc:f4:ad:7e:35:
+                    cf:26:cf:9e:ef:cd:1a:9f:99:72:f4:9b:dd:ca:55:
+                    0a:34:cd:5f:74:53:b3:eb:cb:aa:c6:2e:54:f0:fd:
+                    26:3c:62:be:26:1f:59:94:d7:1a:71:6d:25:7a:cd:
+                    99:83:7d:83:49:d9:08:99:16:66:f4:3b:73:4a:af:
+                    26:d0:21:e5:5e:4a:32:9d:9f:80:94:04:6b:a1:37:
+                    40:1d:4b:c4:8e:2e:a1:28:bd:a6:db:24:96:3a:16:
+                    8a:4c:90:22:e1:77:43:c5:c4:7d:91:f9:80:f3:0e:
+                    14:a9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.22177.300.1.1.4.3.5
+                Policy: 1.3.6.1.4.1.22177.300.2.1.4.3.1
+                Policy: 1.3.6.1.4.1.22177.300.1.1.4
+                Policy: 1.3.6.1.4.1.22177.300.30
+                Policy: 2.23.140.1.2.2
+
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Subject Key Identifier: 
+                C8:0E:E6:B2:E9:FA:68:50:97:48:FF:0A:15:9E:E7:B6:61:3B:AA:A0
+            X509v3 Authority Key Identifier: 
+                keyid:6B:3A:98:8B:F9:F2:53:89:DA:E0:AD:B2:32:1E:09:1F:E8:AA:3B:74
+            X509v3 Capture Identifier:
+                VE:hJ:Q1:RG:e2:V4:dG:Vu:c2:lv:bn:Nf:YX:Jl:X2:Z1:bn:0=
+            X509v3 Subject Alternative Name: 
+                DNS:www.thi.de, DNS:www.haw-ingolstadt.de, DNS:www.fh-ingolstadt.de, DNS:staging.thi.de, DNS:develop.thi.de
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://cdp1.pca.dfn.de/dfn-ca-global-g2/pub/crl/cacrl.crl
+
+                Full Name:
+                  URI:http://cdp2.pca.dfn.de/dfn-ca-global-g2/pub/crl/cacrl.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.pca.dfn.de/OCSP-Server/OCSP
+                CA Issuers - URI:http://cdp1.pca.dfn.de/dfn-ca-global-g2/pub/cacert/cacert.crt
+                CA Issuers - URI:http://cdp2.pca.dfn.de/dfn-ca-global-g2/pub/cacert/cacert.crt
+
+    Signature Algorithm: sha256WithRSAEncryption
+         90:71:19:02:a9:d9:f3:db:8a:f1:1b:6b:bb:5d:e3:ef:2c:61:
+         eb:ee:0e:0b:c8:f4:79:12:88:de:bd:5d:4c:25:72:5e:d1:9c:
+         b6:bd:7d:49:b0:68:6e:74:e9:a1:da:9b:25:9e:b3:c5:07:d4:
+         85:78:0d:5b:f8:56:18:7d:9a:fe:bb:23:d2:38:00:e9:a5:30:
+         a7:3a:39:81:f3:c2:6e:93:7c:36:82:1b:7f:70:03:15:9e:69:
+         a7:e4:25:f1:21:2b:53:24:bc:d6:92:fe:f6:fb:04:27:72:e8:
+         73:ab:0b:06:0a:e3:eb:ba:77:6e:ab:5a:18:bf:6a:53:12:dc:
+         fa:65:07:2c:02:fd:4b:ef:76:4e:f3:96:2c:a2:05:12:75:2d:
+         f2:6c:f5:c6:0a:4b:63:50:8d:24:d8:5e:34:80:b4:47:5b:75:
+         c0:49:00:27:e9:ec:92:40:65:3c:24:37:5d:a1:8d:76:f1:4b:
+         72:55:40:aa:92:0d:8c:01:83:5c:21:57:ab:36:a6:d9:20:eb:
+         1f:34:76:a3:ab:19:fa:bd:0a:f8:9b:d8:11:6d:2e:23:67:5e:
+         a2:07:2d:38:99:f4:ee:a2:0c:24:b2:a1:60:96:c3:2a:4e:41:
+         e8:80:7b:f1:c3:a8:e1:35:dd:85:12:0d:20:32:f1:3a:11:1e:
+         04:71:03:3e

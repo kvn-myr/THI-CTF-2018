@@ -1,0 +1,14 @@
+The flag is at the end of the file, after the normal JPG end.
+The flag is also "base64" encoded.
+
+Flag: THICTF{The_end_is_n0t_the_end}
+Flag (base64): VEhJQ1RGe1RoZV9lbmRfaXNfbjB0X3RoZV9lbmR9Cg==
+
+
+Example:
+tail -c 41 thi.jpg | base64 -d
+(or copy the bytes manually after "hexdump -C" or something like this)
+
+
+Description:
+This jpg <Link> looks really normal. Nothing special!

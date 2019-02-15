@@ -1,0 +1,2 @@
+Hash every line in md5.txt with MD5 and pipe the hash to validate.py
+The flag is: THICTF{ccd404b4a}

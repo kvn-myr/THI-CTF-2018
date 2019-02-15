@@ -1,0 +1,19 @@
+In der console vom Browser:
+
+document.getElementsByTagName("input")[0].value="open_sesame";
+document.getElementsByTagName("button")[0].click();
+
+Weitere Möglichkeit wäre über de-obsfuscation vom Javascript code und manipulieren oder die deobsfuscate() Methode auf den obsfuscierten String im js-Code anwenden. 
+
+Solution2:
+Get the variable name (_0x3be7) out of the "code.js" file and set the "disabled" attribute to "enabled"!
+You have to search the different indices.
+
+Flag:
+THICTF{sorry_for_the_inconvenience}
+
+Text: 
+This input seems to be rather tricky... Maybe you can help.
+
+Hints: 
+-/-

@@ -1,0 +1,10 @@
+Basic XOR of user input and key.
+They key is the flag.
+
+Flag: THICTF{this_is_not_the_flag}
+
+-------
+
+Description:
+Our custom encryption. We are proud!
+

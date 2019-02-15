@@ -1,0 +1,71 @@
+1. What does the following code snippet represent?
+
+<element name="AuthnStatement" type="saml:AuthnStatementType"/>
+...
+
+a) SAML Statement			
+b) SAML Assertion			
+c) SAML Authentication statement		
+d) SAML Attribute statement		
+
+
+2. Where can you find informaton about revoked certificates?
+
+a) RevokedList of Certificates 		
+b) RBSCertList				
+c) Revocation List of Extensions	
+d) Certificate Revocation List		
+
+
+3. Buffer Overflow: What do you call a succession of instructions meant to boost the hit ratio of a desired memory address for malicious code?
+
+a) Malware operation		
+b) Dead-Code-Insertion	
+c) Obfuscation			
+d) NOP-slide			
+
+
+4. Buffer Overflow with C function 'strcpy': What do you have to remove within the shellcode or otherwise it doesn't copy all the data it's supposed to copy? 
+
+a) 0x00				
+b) 0x08				
+c) 0x11				
+d) 0x0f				
+
+
+5. Which attack is possible on the following piece of code?
+
+...
+// userName and userAccount are from a web form
+String userName = request.getParameter("userName");
+String userAccount = request.getParameter("userAccount");
+
+String query = "SELECT * FROM user WHERE user_name=" + userName + " AND userAccount=?";
+
+PreparedStatement p = connection.prepareStatement(query);
+p.setString(1,userAccount);
+ResultSet results = p.executeQuery();
+...
+
+a) SQL Injection	
+b) DB-Injection		
+c) Cross-Site Scripting
+d) Data Breach			
+
+
+6. What's the recent (2018) recommended key length for the encryption algorithm 'Elliptic Curve Integrated Encryption Scheme'?
+
+a) 250 bits	
+b) 500 bits	
+c) 2000 bits	
+d) 3000 bits	
+
+
+7. Picture 'securityIssue.jpg' (Source: https://pikabu.ru/story/vorota_5609375): Which principle of security is infringed?
+
+a) Minimize attack surface area
+b) Secure the weakest link		
+c) Fail securely			
+d) Keep security simple		
+
+

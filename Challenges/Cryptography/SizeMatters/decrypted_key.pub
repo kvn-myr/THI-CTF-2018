@@ -1,0 +1,10 @@
+Public-Key: (256 bit)
+Modulus:
+    00:d1:0c:b4:f8:e0:e2:47:35:31:1b:2e:ea:51:c4:
+    92:7c:25:64:e7:be:a2:df:fb:07:aa:a8:04:47:7c:
+    17:8b:37
+Exponent: 65537 (0x10001)
+-----BEGIN PUBLIC KEY-----
+MDwwDQYJKoZIhvcNAQEBBQADKwAwKAIhANEMtPjg4kc1MRsu6lHEknwlZOe+ot/7
+B6qoBEd8F4s3AgMBAAE=
+-----END PUBLIC KEY-----

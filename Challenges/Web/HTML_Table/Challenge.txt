@@ -1,0 +1,4 @@
+You've found a suspicious looking HTML-Table with various CSS-classes.
+Maybe if we change some CSS-attributes a hidden message will be visible?
+
+Hint: Put the flag between the brackets of 'THICTF{}'

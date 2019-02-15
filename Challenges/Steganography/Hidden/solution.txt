@@ -1,0 +1,9 @@
+Use MS-Paint or Gimp to change the background color from white to something else.
+Use "color bucket" or binary thresholding.
+After that, the Flags shows up.
+
+Flag: THICTF{MS_PAINT_4-EVER}
+
+
+Desciption:
+A white image <Link>, looks strange! What do you think?

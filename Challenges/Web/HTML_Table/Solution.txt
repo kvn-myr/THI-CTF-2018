@@ -1,0 +1,5 @@
+.debug{
+	background: black;
+}
+
+sets color of real flag-blocks to black, so "EASYFLAG" becomes visible, so the flag is: THICTF{EASYFLAG}

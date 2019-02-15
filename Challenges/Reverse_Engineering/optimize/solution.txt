@@ -1,0 +1,4 @@
+the programm add all primes till sum exceeds 1.000.000.000. 
+possible solutions are: remove unnecessary loops etc. or use the sieve of eratosthenes
+
+Flag is: THICTF{1000017876}

@@ -1,0 +1,3 @@
+Base64 decode the messages
+
+The flag is: THICTF{base64_is_an_encoding_not_an_encryption}

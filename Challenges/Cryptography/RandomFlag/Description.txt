@@ -1,0 +1,7 @@
+On the server runs the java program „randomFlag.java“, which reads a text file and returns the flag.
+
+Hm! Something went wrong.
+
+The output is „JVufbHUqVgnOvFSZwDOLnhSRQVZWds“.
+
+Can you help?

@@ -1,0 +1,11 @@
+To start the server:
+
+$ python start_threaded_server.py [port] admin:ctf_l3t_me_iN
+
+Server now runs on localhost:port
+
+First is the sql-injection part of the challenge:
+
+$ nc [host] [port] (query.py)
+
+Once the login is known from the sql injection attack, the challenge can be continued.

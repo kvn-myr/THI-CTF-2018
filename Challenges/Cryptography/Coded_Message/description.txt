@@ -1,0 +1,14 @@
+Hey you! Did you see that message that looks like an electronic codebook? I can't decrypt it because the key is not complete. I only know that the three question marks have something to do with one of those names:
+
+- Thesaurus
+- Schneier
+- Security
+- Reykjavik
+- Safety
+- Rjindael
+- Feistel
+- Ratchet
+
+
+ 
+Key: 16-BYTE-???-KEY!

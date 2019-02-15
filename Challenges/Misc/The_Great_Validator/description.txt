@@ -1,0 +1,1 @@
+You found a strange validate.py script. What validates it? Find out and validate!
