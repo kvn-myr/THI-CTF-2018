@@ -1,3 +1,0 @@
-The attached jave-file contains eight functions. 
-You have to sort these functions according to the O-notation.
-After correctly sorting, you get the flag by concatenating the return-statements.

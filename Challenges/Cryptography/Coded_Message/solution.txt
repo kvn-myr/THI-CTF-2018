@@ -1,3 +1,0 @@
-The ciphertext is base64 encoded.
-Decyrpt the ciphertext.txt (AES_ECB) with the key: "16-BYTE-AES-KEY!
-Flag: THICTF{be_careful_with_AES_ECB_mode}

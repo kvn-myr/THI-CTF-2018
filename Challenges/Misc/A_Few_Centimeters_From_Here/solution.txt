@@ -1,2 +1,0 @@
-The binary Hamming distance between "Hamming" and "Example" is 13
-The flag is: THICTF{13!13!13!}

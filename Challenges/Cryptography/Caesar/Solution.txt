@@ -1,3 +1,0 @@
-Caesar-Chriffre, either bruteforce or guess, which letter could be which
-
-Solution is: THICTF{alea iacta est (the die has been thrown)}

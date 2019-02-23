@@ -1,4 +1,0 @@
-What's the binary distance between "Hamming" and "Example"? Do I need a ruler?
-
-
-Design your flag like this: THICTF{answer!answer!answer!}
