@@ -1,4 +1,0 @@
-Aaaah, again a lot of strings. The flag format is THICTF{<clear-text>} where <clear-text> is the decrypted string of the displayed hash.
-Find the correct flag in the binary!
-
-Hint: You will not be able to brute force the hash.

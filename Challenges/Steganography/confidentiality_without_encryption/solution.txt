@@ -1,3 +1,0 @@
-This is a "chaffing and winnowing" challenge.
-The correct name and password combination is hidden between many pointless combinations.Use the file name of the challenge description to find the right combination.
-Flag: THICTF{Yuki+QKYCcCywIr6WF7bP7EV5}

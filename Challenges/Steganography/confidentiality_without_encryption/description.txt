@@ -1,3 +1,0 @@
-You have entered the THI-CTF password reset system and have been able to intercept some messages.
-Find the right combination!
-Design your flag like this: THICTF{name+password} 

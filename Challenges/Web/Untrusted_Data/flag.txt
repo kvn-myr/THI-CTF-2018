@@ -1,1 +1,0 @@
-THICTF{th1s_XSS_w4s_qu1t3_34sy}

@@ -1,1 +1,0 @@
-e.g. <"THI"script type="text/javascript">alert("T"THI"H"THI"I");<"THI"/script>
